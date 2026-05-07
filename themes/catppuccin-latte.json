@@ -1,0 +1,26 @@
+{
+  "name": "catppuccin-latte",
+  "base": "light",
+  "tokens": {
+    "bg.base": "#eff1f5",
+    "bg.surface": "#e6e9ef",
+    "bg.elevated": "#dce0e8",
+    "bg.overlay": "#ccd0da",
+    "text.primary": "#4c4c4c",
+    "text.secondary": "#6c6c6c",
+    "text.muted": "#939393",
+    "text.link": "#1e66f5",
+    "border.default": "#ccd0da",
+    "border.active": "#1e66f5",
+    "border.error": "#ef5350",
+    "accent.primary": "#1e66f5",
+    "accent.success": "#40a0a0",
+    "accent.warning": "#df8e1e",
+    "accent.error": "#ef5350",
+    "accent.info": "#1e66f5",
+    "diff.add.bg": "#d6e3d6",
+    "diff.add.text": "#40a0a0",
+    "diff.del.bg": "#e3d6d6",
+    "diff.del.text": "#ef5350"
+  }
+}

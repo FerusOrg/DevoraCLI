@@ -1,0 +1,26 @@
+{
+  "name": "monokai-pro",
+  "base": "dark",
+  "tokens": {
+    "bg.base": "#2d2a2e",
+    "bg.surface": "#403f41",
+    "bg.elevated": "#5a585c",
+    "bg.overlay": "#403f41",
+    "text.primary": "#fcfcfa",
+    "text.secondary": "#abb2bb",
+    "text.muted": "#757170",
+    "text.link": "#C5B086",
+    "border.default": "#403f41",
+    "border.active": "#C5B086",
+    "border.error": "#f2971a",
+    "accent.primary": "#C5B086",
+    "accent.success": "#a6e22e",
+    "accent.warning": "#fd971f",
+    "accent.error": "#f92672",
+    "accent.info": "#66d9ef",
+    "diff.add.bg": "#343335",
+    "diff.add.text": "#a6e22e",
+    "diff.del.bg": "#343335",
+    "diff.del.text": "#f92672"
+  }
+}

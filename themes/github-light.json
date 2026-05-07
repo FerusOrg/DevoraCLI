@@ -1,0 +1,26 @@
+{
+  "name": "github-light",
+  "base": "light",
+  "tokens": {
+    "bg.base": "#ffffff",
+    "bg.surface": "#f6f8fa",
+    "bg.elevated": "#ebf0f4",
+    "bg.overlay": "#d0d7de",
+    "text.primary": "#24292f",
+    "text.secondary": "#57606a",
+    "text.muted": "#8c9196",
+    "text.link": "#0969da",
+    "border.default": "#d0d7de",
+    "border.active": "#0969da",
+    "border.error": "#cf222e",
+    "accent.primary": "#0969da",
+    "accent.success": "#1a7f37",
+    "accent.warning": "#9a6700",
+    "accent.error": "#cf222e",
+    "accent.info": "#0550ae",
+    "diff.add.bg": "#dafbc4",
+    "diff.add.text": "#1a7f37",
+    "diff.del.bg": "#ffebe9",
+    "diff.del.text": "#cf222e"
+  }
+}

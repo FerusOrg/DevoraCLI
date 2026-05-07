@@ -1,0 +1,11 @@
+{
+  "name": "@devora/plugin-api",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "dependencies": {
+    "zod": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
